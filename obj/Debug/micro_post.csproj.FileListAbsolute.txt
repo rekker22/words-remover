@@ -1,0 +1,21 @@
+E:\c# projects\microsft_services\micro_post\obj\Debug\micro_post.csprojAssemblyReference.cache
+E:\c# projects\microsft_services\micro_post\obj\Debug\micro_post.csproj.CoreCompileInputs.cache
+E:\c# projects\microsft_services\micro_post\bin\Debug\micro_post.exe.config
+E:\c# projects\microsft_services\micro_post\bin\Debug\micro_post.exe
+E:\c# projects\microsft_services\micro_post\bin\Debug\micro_post.pdb
+E:\c# projects\microsft_services\micro_post\obj\Debug\micro_post.exe
+E:\c# projects\microsft_services\micro_post\obj\Debug\micro_post.pdb
+E:\c# projects\microsft_services\micro_post\bin\Debug\Newtonsoft.Json.dll
+E:\c# projects\microsft_services\micro_post\bin\Debug\Newtonsoft.Json.pdb
+E:\c# projects\microsft_services\micro_post\bin\Debug\Newtonsoft.Json.xml
+E:\c# projects\microsft_services\micro_post\obj\Debug\micro_post.csproj.CopyComplete
+E:\micro_post\bin\Debug\micro_post.exe.config
+E:\micro_post\bin\Debug\micro_post.exe
+E:\micro_post\bin\Debug\micro_post.pdb
+E:\micro_post\bin\Debug\Newtonsoft.Json.pdb
+E:\micro_post\bin\Debug\Newtonsoft.Json.xml
+E:\micro_post\obj\Debug\micro_post.csprojAssemblyReference.cache
+E:\micro_post\obj\Debug\micro_post.csproj.CoreCompileInputs.cache
+E:\micro_post\obj\Debug\micro_post.csproj.CopyComplete
+E:\micro_post\obj\Debug\micro_post.exe
+E:\micro_post\obj\Debug\micro_post.pdb
