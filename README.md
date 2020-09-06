@@ -1,7 +1,7 @@
 Words Remover
 
-Utilizing Microsft cognitve service to remove words(letter by letter) in a image.
-Example - 
+Utilizing Microsft cognitve service to remove words(letter by letter) in a image.<br />
+Example<br />
 Before Edit
 ![Before Edit](https://1.bp.blogspot.com/-WWbgWET77Q4/X1Va7iGM6gI/AAAAAAAAHq4/Qde3m0mdqRo9-JTGANIO8ZwOCP3miXlSgCLcBGAsYHQ/s314-rw/uc_002.jpg)
 After Edit 
